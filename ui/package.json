@@ -1,0 +1,22 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gchatterjee/solitaire.git"
+  },
+  "author": "gchatterjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gchatterjee/solitaire/issues"
+  },
+  "homepage": "https://github.com/gchatterjee/solitaire#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}

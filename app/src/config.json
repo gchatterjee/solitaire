@@ -1,0 +1,21 @@
+{
+    "suites": [
+        {
+            "name": "spade",
+            "color": "black"
+        },
+        {
+            "name": "club",
+            "color": "black"
+        },
+        {
+            "name": "heart",
+            "color": "red"
+        },
+        {
+            "name": "diamond",
+            "color": "red"
+        }
+    ],
+    "cardCount": 13
+}
